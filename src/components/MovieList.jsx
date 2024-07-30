@@ -52,7 +52,7 @@ function MovieList({title, data }) {
                 </div>
             ))}
 
-        </Carousel>;
+        </Carousel>
 
 
     </div>
